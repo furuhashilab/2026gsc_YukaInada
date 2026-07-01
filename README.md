@@ -1,6 +1,6 @@
 # 2026gsc_YukaInadaa
 
-## 2026年卒論
+## OSMを用いた作業スペース共有サイトの作成と情報の拡充
 公開リンクhttps://inadayuka.github.io/2026gsc_YukaInada/
 
 # Introduction
