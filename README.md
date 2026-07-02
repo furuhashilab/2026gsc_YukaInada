@@ -1,4 +1,4 @@
-# 2026gsc_YukaInadaa
+# 2026gsc_YukaInada
 
 ## OSMを用いた学生・社会人向け作業スペース共有サイト「Spot share map」の作成と利用情報の拡充
 公開リンクhttps://inadayuka.github.io/2026gsc_YukaInada/
