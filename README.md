@@ -54,9 +54,12 @@
 
 Spot Share Mapは、ClaudeとCodex、Firebaseで、OSMをベースマップとして利用して作成している。
 
-・Claude、Codex（コード生成）
+・Claude、Codex（コード生成） 
+
 ・Firebase（投稿データの保存）
+
 ・OpenStreetMap（地図）
+
 ・GitHub Pages（サイト公開）
 
 コードの生成にはClaudeとCodexを併用している。最初の作成から、現在の機能追加や不具合の相談まで、チャット形式でClaude、Codexに投げ、改善案や実装コードを受け取りながら、自身の動作確認や提案も繰り返しながらより良いサイトにしていく予定だ。
@@ -94,7 +97,8 @@ Spot Share Mapは、ClaudeとCodex、Firebaseで、OSMをベースマップと�
 
 ## 5.	Conclusion
 1 最終的な目標
-卒業論文の最終ゴールは、以下の3点である。
+
+卒業論文の最終ゴールは、以下の3点とする。
 
 	1.	継続的に投稿・検索・利用されるサイトの運用
 
