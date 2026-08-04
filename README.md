@@ -1,5 +1,5 @@
-# OSMを用いた学生・社会人向け作業スペース共有サイト
-## 「Spot share map」の作成と利用情報の拡充
+## OSMを用いた学生・社会人向け作業スペース共有サイト
+# 「Spot share map」の作成と利用情報の拡充
 
 ### 初代 https://inadayuka.github.io/2026gsc_YukaInada/
 ### 改良 https://spotsharemap.github.io/sharewitheveryone/
