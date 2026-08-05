@@ -15,7 +15,7 @@
 	
 	指導教員 古橋大地教授
 	
-	©︎Furuhashi Laboratory/Yuka Inada, CC BY 4.0
+	©︎Furuhashi Laboratory/Yuka Inada,CC BY 4.0
 
 ## 1.	Introduction
 1 背景
