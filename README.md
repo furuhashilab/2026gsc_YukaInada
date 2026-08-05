@@ -21,6 +21,8 @@
 
 ### [質疑応答用issue(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/1)
 
+### [先行研究用issue(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/2)
+ 
 
 ## 1.	Introduction
 1 背景
