@@ -19,7 +19,7 @@
 	
 	©︎Furuhashi Laboratory/Yuka Inada,CC BY 4.0
 
-### [質疑応答(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/1)
+### [質疑応答用issue(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/1)
 
 
 ## 1.	Introduction
