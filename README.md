@@ -7,6 +7,15 @@
 ### 初代 https://inadayuka.github.io/2026gsc_YukaInada/
 ### 改良 https://spotsharemap.github.io/sharewitheveryone/
 #### 公式X https://x.com/spotsharemap?s=11
+	
+	青山学院大学 地球社会共生学部 地球社会共生学科
+	
+	稲田 優花 / Yuka Inada
+	学生番号 1A123023
+	
+	指導教員 古橋大地教授
+	
+	©︎Furuhashi Laboratory/Yuka Inada, CC BY 4.0
 
 ## 1.	Introduction
 1 背景
@@ -122,11 +131,3 @@ Spot Share Mapは、ClaudeとCodex、Firebaseで、OSMをベースマップと�
 2 今後の作業
 
 今後は、現地調査によるスポット投稿と並行して、投稿データの信頼性確保、ユーザーの確保、SNSでの発信などを進める。また、蓄積したデータや見えてきた課題を分析・改善しながら卒業論文としてまとめていく。
-
-
-
-	青山学院大学 地球社会共生学部 地球社会共生学科
-	稲田 優花 / Yuka Inada
-	学生番号 1A123023
-	指導教員 古橋大地教授
-	©︎Furuhashi Laboratory/Yuka Inada, CC BY 4.0
