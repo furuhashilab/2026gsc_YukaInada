@@ -125,12 +125,12 @@ Spot Share Mapは、ClaudeとCodex、Firebaseで、OSMをベースマップと�
 
 
 
-青山学院大学 地球社会共生学部 地球社会共生学科
+	青山学院大学 地球社会共生学部 地球社会共生学科
 
-稲田 優花 / Yuka Inada
+	稲田 優花 / Yuka Inada
 
-学生番号 1A123023
+	学生番号 1A123023
 
-指導教員 古橋大地教授
+	指導教員 古橋大地教授
 
-©︎Furuhashi Laboratory/Yuka Inada, CC BY 4.0
+	©︎Furuhashi Laboratory/Yuka Inada, CC BY 4.0
