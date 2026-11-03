@@ -7,8 +7,8 @@
 ウェブサイト作成後は、充電可能な店舗や作業用スペースを記録した(Firebaseを利用してデータを保管)。今後は、より多くのスポット登録や新たな機能の追加によってユーザーを増やすとともに、外出先で充電場所を必要とする社会人や学生の利便性向上に貢献することを目指す。
 
 ### [🔗初代ウェブサイト(2026/7/1時点)](https://inadayuka.github.io/2026gsc_YukaInada/)
-### [🔗改良版ウェブサイト(中間構想発表時点)](https://spotsharemap.github.io/sharewitheveryone/)
-### [🔗公式X(旧:twitter)(中間構想発表時点)](https://x.com/spotsharemap?s=11)
+### [🔗改良版ウェブサイト(2026/11/3時点)](https://spotsharemap.github.io/sharewitheveryone/)
+### [🔗公式X(旧:twitter)(2026/7/1時点)](https://x.com/spotsharemap?s=11)
 	
 	青山学院大学 地球社会共生学部 地球社会共生学科
 	
@@ -19,7 +19,7 @@
 	
 	©︎Furuhashi Laboratory/Yuka Inada,CC BY 4.0
 
-### [質疑応答用issue(中間構想発表時点~現在)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/1)
+### [質疑応答用issue(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/1)
 
 ### [先行研究用issue(中間構想発表時点)](https://github.com/furuhashilab/2026gsc_YukaInada/issues/2)
  
